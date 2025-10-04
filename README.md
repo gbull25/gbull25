@@ -4,6 +4,6 @@
 📚 HSE student at [Machine Learning and Data-Intensive Systems](https://www.hse.ru/en/ma/mlds/).<br>
 
 
-- 📑 CV: [Link](https://drive.google.com/file/d/1KseeI8HTZH3RMIRzTkt8iVPfcKM-p_fb/view?usp=sharing)
+- 📑 CV: [Link]([https://drive.google.com/file/d/1KseeI8HTZH3RMIRzTkt8iVPfcKM-p_fb/view?usp=sharing](https://drive.google.com/file/d/1PZJOt5v-xshxm2149g46nP_pt7WN0tIZ/view?usp=sharing))
 - 📫 Telegram: [@jdbelg](https://t.me/jdbelg)
 - 📧 Email: gbulygin@yandex.ru
